@@ -71,7 +71,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 ## Setting Method
+- Download
 - cd `Notes-React-App`
 - npm install
 - npm start
--
